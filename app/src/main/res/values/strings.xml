@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ledo</string>
+
+    <string name="game_lost_msg">Nope! But you can try again :)</string>
+    <string name="game_won_msg">Congratulations! You guessed right.\nOne more round?</string>
+    <string name="lets_go">Lets go</string>
+    <string name="right_answer_label">Right answer: %s</string>
+    <string name="current_guess_label">Current guess: %s</string>
+
+</resources>
